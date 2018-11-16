@@ -21,6 +21,7 @@ export default {
   .header
     display: flex
     line-height: .86rem
+    height: .86rem
     background: #00bcd4
     color: #fff
     .header-left
